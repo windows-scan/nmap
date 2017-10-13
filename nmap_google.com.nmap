@@ -1,0 +1,11 @@
+# Nmap 7.60 scan initiated Fri Oct 13 18:02:19 2017 as: nmap -Pn -p 1-1000 -oN /tmp/results/nmap_google.com.nmap google.com
+Nmap scan report for google.com (216.58.221.238)
+Host is up (0.090s latency).
+Other addresses for google.com (not scanned): 2404:6800:4005:800::200e
+rDNS record for 216.58.221.238: hkg07s21-in-f238.1e100.net
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+# Nmap done at Fri Oct 13 18:04:29 2017 -- 1 IP address (1 host up) scanned in 129.58 seconds
