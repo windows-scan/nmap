@@ -1,6 +1,6 @@
-# Nmap 7.60 scan initiated Fri Oct 13 18:04:36 2017 as: nmap -sV -oN /tmp/results/nmap_baohiemxahoi.gov.vn.nmap baohiemxahoi.gov.vn
+# Nmap 7.60 scan initiated Fri Oct 13 18:12:40 2017 as: nmap -sV -oN /tmp/results/nmap_baohiemxahoi.gov.vn.nmap baohiemxahoi.gov.vn
 Nmap scan report for baohiemxahoi.gov.vn (125.212.205.45)
-Host is up (0.062s latency).
+Host is up (0.0038s latency).
 Not shown: 996 filtered ports
 PORT     STATE SERVICE    VERSION
 80/tcp   open  http-proxy F5 BIG-IP load balancer http proxy
@@ -10,4 +10,4 @@ PORT     STATE SERVICE    VERSION
 Service Info: OS: Windows; Device: load balancer; CPE: cpe:/o:microsoft:windows
 
 Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
-# Nmap done at Fri Oct 13 18:06:10 2017 -- 1 IP address (1 host up) scanned in 93.96 seconds
+# Nmap done at Fri Oct 13 18:14:13 2017 -- 1 IP address (1 host up) scanned in 92.30 seconds
