@@ -1,0 +1,9 @@
+# Nmap 7.60 scan initiated Sat Oct 14 02:32:45 2017 as: nmap -sV -oN /tmp/results/nmap_mt.gov.vn.nmap mt.gov.vn
+Nmap scan report for mt.gov.vn (124.158.5.7)
+Host is up (0.0093s latency).
+Not shown: 999 filtered ports
+PORT   STATE SERVICE    VERSION
+80/tcp open  tcpwrapped
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Sat Oct 14 02:33:14 2017 -- 1 IP address (1 host up) scanned in 29.57 seconds
